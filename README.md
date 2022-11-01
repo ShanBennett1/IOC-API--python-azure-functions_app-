@@ -1,2 +1,2 @@
 # IOC-API--python-azure-functions_app-
-This 
+API for Indicator of Compromise MS Teams bot.
